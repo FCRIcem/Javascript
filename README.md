@@ -4,3 +4,5 @@
 ![fuzuli](bateri-1.png)
 #w3 Game çalışması
 ![w3schoools oyunundan esinlenilerek yapılan bir çalışma](w3game.png)
+#Hava Durumu
+![js güncel hava durumu](hava-durumu.png)

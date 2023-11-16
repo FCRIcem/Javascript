@@ -8,3 +8,9 @@
 ![js güncel hava durumu](hava-durumu.png)
 
 <img src="ark.png" alt="Arkadaşlık Ölçen Ülvi Bir Alet" width="300" height="200">
+
+
+<video width="320" height="240" controls>
+  <source src="Javascript/Js Todo List/Ekran Kaydı 2023-11-12 03.23.51.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
